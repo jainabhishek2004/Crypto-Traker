@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Crypto Market Table',
+  description: 'A real-time, dynamic cryptocurrency market dashboard',
   generator: 'v0.dev',
 }
 
