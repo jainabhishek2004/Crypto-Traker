@@ -4,9 +4,9 @@ A real-time, dynamic cryptocurrency market table built with Next.js, React, Redu
 
 ## 🚀 Demo
 
-![Demo GIF](demo.gif)
 
-Or watch the full walkthrough video: [Demo Video](https://your-demo-video-link.com)
+
+ watch the full walkthrough video: [Demo Video](https://www.loom.com/share/8fc42a9a79d34b13936ccdb7c75a41ba?sid=8cbc5ea4-c983-4ed9-b5b6-ad2f4717889c)
 
 ---
 
