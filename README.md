@@ -62,7 +62,6 @@ A real-time, dynamic cryptocurrency market table built with Next.js, React, Redu
 
 ---
 
-## 📹 Demo Video/GIF
 
 - **UI Layout:**
   - Responsive table with crypto info, prices, and sparklines
@@ -72,8 +71,10 @@ A real-time, dynamic cryptocurrency market table built with Next.js, React, Redu
   - See how Redux state drives the UI
 - **Thought Process:**
   - Clean, modular code with best practices for state and UI
+ 
+  - 
+ watch the full walkthrough video: [Demo Video](https://www.youtube.com/watch?v=MbylDsDBI9U)
 
-> Replace the demo GIF/video link with your own recording!
 
 ---
 
