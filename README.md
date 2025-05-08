@@ -79,4 +79,8 @@ Or watch the full walkthrough video: [Demo Video](https://your-demo-video-link.c
 
 ## 📄 License
 
+<<<<<<< HEAD
 MIT 
+=======
+MIT 
+>>>>>>> d96bfb98796fe9863c9b272f463a84e014227bb3
