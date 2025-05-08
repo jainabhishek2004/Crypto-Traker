@@ -78,10 +78,4 @@ A real-time, dynamic cryptocurrency market table built with Next.js, React, Redu
 
 ---
 
-## 📄 License
 
-<<<<<<< HEAD
-MIT 
-=======
-MIT 
->>>>>>> d96bfb98796fe9863c9b272f463a84e014227bb3
